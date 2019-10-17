@@ -9,7 +9,7 @@ CREATE TABLE Manga (
 );
 
 CREATE TABLE Librairie (
-  Nom  VARCHAR primary key,
-  Adresse VARCHAR,
+  Nom  VARCHAR,
+  Adresse VARCHAR primary key,
   Numero VARCHAR
 );
