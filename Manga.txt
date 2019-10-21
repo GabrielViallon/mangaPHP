@@ -1,0 +1,40 @@
+1|Astro Boy|Osamu Tezuka|Kodomo|Science-fiction|Monde dans lequel humains et robots cohabitent suivont l'histoire d'Astro un petit robot vivant au sein de ce monde|astroboy.jpg
+2|Bakmonogatari|Nishio Ishin|Light Novel|Surnaturel|Koyomi Araragi jeune lycéen est attaqué par un vampire et va par la suite rencontrer d'autres personnages atteint de maux paranormaux|bakemonogatari.jpg
+3|Black clover|Yuki Tabata|Shonen|Fantasy|Asta a pour ambition de devenir le futur Roi-mage de son pays suivait son ascencion vers ce titre tout au long de l'aventure|black_clover.jpg
+4|Bleach|Tite Kubo|Shonen|Aventure|Ichigo Kurosaki jeune lycéen arrive à voir, entendre et toucher les âmes des morts depuis qu'il est tout petit. Un soir, sa routine quotidienne vient à être bouleversée venez découvrir ce qui l'attend|bleach.jpg
+5|Blue Exorcist|Kazue Kato|Shonen|Dark Fantasy|Satan après avoir tué le père gardien Fujimoto, pour permettre à Rin notre personnage principal de retourner dans le monde des démons, il lui donne un rêve : devenir un exorciste pour vaincre le dieu des démons.|blue_exorcist.jpg
+6|Boruto|Ukyo Kodachi|Shonen|Ninja||boruto.jpg
+7|Dr.Stone|Riichiro inagaki|Shonen|Post-apocalypse||dr_stone.jpg
+8|Eden zero|Hiro Mashima|Shonen|Fantasy||eden_zero.jpg
+9|Fairy tail|Hiro Mashima|Shonen|Fantasy||fairy_tail.jpg
+10|Fate zero|Gen Urobochi|Light Novel|Dark Fantasy||fate_zero.jpg
+11|Fire  force|Atsushi okubo|Shonen|Aventure||fire_force.jpg
+12|Fullmetal alchemist|Hiromu Harakawa|Shonen|Science-fiction||fma.jpg
+13|Food wars|Yuto Tsukuda|Shonen|Culinaire||food_wars.jpg
+14|Goblin slayer|Kumo Kagyu|Light Novel|Fantasy||goblin_slayer.jpg
+15|GTO|Toru Fujisawa|Shonen|Comédie||gto.jpg
+16|Haikyu|Haruichi Furudate|Shonen|Sport||haikyu.jpg
+17|Hunter x Hunter|Yoshihiro Togashi|Shonen|Aventure||hxh.jpg
+18|Im|Makoto Morishita|Shonen|Aventure||im.jpg
+19|Inuyashiki|Hiroya Oku|Seinen|Science-fiction||inuyashiki.jpg
+20|Jagaaan|Muneyuki Kaneshiro|Seinen|Surnaturel||jagaaan.jpg
+21|Kingdom Hearts|Shiro Amono|Shonen|Fantasy||kingdom_hearts.jpg
+22|Kingdom|Yasuhisa Hara|Seinen|Historique||kingdom.jpg
+23|Konosuba|Natsume Akatsuki|Light Novel|Comédie||konosuba.jpg
+24|Kuroko's Basket|Tadatoshi Fujimaki|Shonen|Sport||kuroko.jpg
+25|Made in Abyss|Akihito Tsukushi|Seinen|Isekai||made_in_abyss.jpg
+26|Magi|Shinobu Ohtaka|Shonen|Fantasy||magi.jpg
+27|Mob psycho 100|ONE|Shonen|Surnaturel||mob_psycho.jpg
+28|Naruto|Masashi Kishimoto|Shonen|Ninja||naruto.jpg
+29|Nisekoi|Naoshi Komi|Shonen|Romance||nisekoi.jpg
+30|No Game No life|Yū Kamiya|Seinen|Isekai||no_game_no_life.jpg
+31|One Piece|Eiichirō Oda|Shonen|Pirate||one_piece.jpg
+32|Overlord|Kugane Maruyama|Seinen|Isekai||overlord.jpg
+33|Promised Neverland|Kaiu Shirai|Shonen|Science-fiction||promised_nerve_land.jpg
+34|Radiant|Tony Valente|Shonen|Fantasy||radiant.jpg
+35|Re:Zero|Tappei Nagatsuki|Seinen|Isekai||re_zero.jpg
+36|One punch man|ONE|Seinen|Super-héros||saitama.jpg
+37|Seven deadly Sins|Nakaba Suzuki|Shonen|Fantasy||seven_deadly_sins.jpg
+38|Rising of the Shield hero|Aneko Yusagi|Seinen|Isekai||shield_hero.jpg
+39|Steins Gate|Sarachi Yomi|Seinen|Science-fiction||steins_gate.jpg
+40|Wakfu|Anthony Roux|Shonen|Fantasy||wakfu.jpg

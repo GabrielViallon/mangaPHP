@@ -13,3 +13,10 @@ CREATE TABLE Librairie (
   Adresse VARCHAR primary key,
   Numero VARCHAR
 );
+
+CREATE TABLE Stock (
+  Librairie VARCHAR,
+  Ref INTEGER,
+  Dispo INTEGER,
+  PRIMARY KEY ('Libraire','Ref')
+);
