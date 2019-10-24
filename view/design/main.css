@@ -2,8 +2,8 @@ article{
   display: flex;
 }
 
-header{
-
+header::before{
+  content: url('Logo.jpg');
 }
 
 div{
