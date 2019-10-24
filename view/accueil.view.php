@@ -24,10 +24,18 @@
 </header>
 <?php
 
-echo "<table><tr><td>";
-for ($j=0; $j < 4; $j++) {
-  echo "<img src="" alt="Logo">";
+echo "<article>";
+
+require_once('../model/MangaDAO.class.php');
+$mangas = new MangaDAO('../model/data');
+$tableauImages[] = $mangas.getImages();
+
+foreach ($tableauImages as $val) {
+
+  echo '<img src="../model/data/images_manga/'.$val.'" alt="'.$val.'">';
 }
+
+echo "</article>";
  ?>
 </body>
 </html>
