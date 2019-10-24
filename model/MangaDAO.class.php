@@ -12,14 +12,16 @@ class MangaDAO{
 
     }
 
-  public function get(int $id){
-    $sql = "SELECT * FROM Manga WHERE Ref='$id'";
-    return $this->db->query($sql);
+  public function getFromImg(string $chaine){
+    $sql = "SELECT * FROM Manga WHERE Image='$chaine'";
+    $inter = $this->db->query($sql);
+    return $inter;
   }
 
   public function getImages(){
-    $sql = "SELECT Image FROM Manga WHERE *";
-    return $this->db->query($sql);
+    $sql = "SELECT Image FROM Manga";
+    $inter = $this->db->query($sql);
+    return $inter;
   }
 
 };

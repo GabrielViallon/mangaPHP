@@ -2,10 +2,6 @@ header{
   text-align: center;
 }
 
-article a{
-  text-decoration: none;
-}
-
 img{
   max-height: 250px;
 }
@@ -47,11 +43,4 @@ li a {
 li a:hover {
   background-color: #ffaa00;
   font-weight: bold;
-}
-
-container{
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 20px;
-  grid-auto-rows: minmax(0px, auto);
 }

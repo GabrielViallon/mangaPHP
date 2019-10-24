@@ -30,7 +30,7 @@
 30|No Game No life|Yū Kamiya|Seinen|Isekai||no_game_no_life.jpg
 31|One Piece|Eiichirō Oda|Shonen|Pirate||one_piece.jpg
 32|Overlord|Kugane Maruyama|Seinen|Isekai||overlord.jpg
-33|Promised Neverland|Kaiu Shirai|Shonen|Science-fiction||promised_nerve_land.jpg
+33|Promised Neverland|Kaiu Shirai|Shonen|Science-fiction||promised_never_land.jpg
 34|Radiant|Tony Valente|Shonen|Fantasy||radiant.jpg
 35|Re:Zero|Tappei Nagatsuki|Seinen|Isekai||re_zero.jpg
 36|One punch man|ONE|Seinen|Super-héros||saitama.jpg

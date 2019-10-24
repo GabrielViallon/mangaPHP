@@ -2,15 +2,15 @@
 <html lang="fr" dir="ltr">
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="./design/main.css">
 <title>MangaStarter</title>
 </head>
 <body>
 <header>
   <article>
-  <a href="#"><img src="data/Logo.jpg" alt="Logo"></a>
-  <h1>Bienvenue chez Manga Starter !</h1>
-  </article>
+  <h1>Bienvenue chez</h1>
+  <a href="accueil.view.php"><img src="../model/data/Logo.jpg" alt=""><h1>Manga Starter !</h1></a>
+</article>
   <div>
     <ul>
         <li><a href="#">Magasin</a></li>
@@ -22,20 +22,18 @@
     <input type="text" placeholder="Rechercher...">
   </div>
 </header>
+<container>
 <?php
-
-echo "<article>";
-
 require_once('../model/MangaDAO.class.php');
 $mangas = new MangaDAO('../model/data');
-$tableauImages[] = $mangas.getImages();
+$tableauImages = $mangas->getImages()->fetchAll();
 
 foreach ($tableauImages as $val) {
 
-  echo '<img src="../model/data/images_manga/'.$val.'" alt="'.$val.'">';
-}
 
-echo "</article>";
+  echo '<a href="product.view.php?img='.$val['Image'].'"><img src="../model/data/images_manga/'.$val['Image'].'" alt="'.$val['Image'].'"></a>';
+}
  ?>
+</container>
 </body>
 </html>
