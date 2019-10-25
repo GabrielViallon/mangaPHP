@@ -3,38 +3,38 @@
 3|Black clover|Yuki Tabata|Shonen|Fantasy|Asta a pour ambition de devenir le futur Roi-mage de son pays suivait son ascencion vers ce titre tout au long de l'aventure|black_clover.jpg
 4|Bleach|Tite Kubo|Shonen|Aventure|Ichigo Kurosaki jeune lycéen arrive à voir, entendre et toucher les âmes des morts depuis qu'il est tout petit. Un soir, sa routine quotidienne vient à être bouleversée venez découvrir ce qui l'attend|bleach.jpg
 5|Blue Exorcist|Kazue Kato|Shonen|Dark Fantasy|Satan après avoir tué le père gardien Fujimoto, pour permettre à Rin notre personnage principal de retourner dans le monde des démons, il lui donne un rêve : devenir un exorciste pour vaincre le dieu des démons.|blue_exorcist.jpg
-6|Boruto|Ukyo Kodachi|Shonen|Ninja||boruto.jpg
-7|Dr.Stone|Riichiro inagaki|Shonen|Post-apocalypse||dr_stone.jpg
-8|Eden zero|Hiro Mashima|Shonen|Fantasy||eden_zero.jpg
-9|Fairy tail|Hiro Mashima|Shonen|Fantasy||fairy_tail.jpg
-10|Fate zero|Gen Urobochi|Light Novel|Dark Fantasy||fate_zero.jpg
-11|Fire  force|Atsushi okubo|Shonen|Aventure||fire_force.jpg
-12|Fullmetal alchemist|Hiromu Harakawa|Shonen|Science-fiction||fma.jpg
-13|Food wars|Yuto Tsukuda|Shonen|Culinaire||food_wars.jpg
-14|Goblin slayer|Kumo Kagyu|Light Novel|Fantasy||goblin_slayer.jpg
-15|GTO|Toru Fujisawa|Shonen|Comédie||gto.jpg
-16|Haikyu|Haruichi Furudate|Shonen|Sport||haikyu.jpg
-17|Hunter x Hunter|Yoshihiro Togashi|Shonen|Aventure||hxh.jpg
-18|Im|Makoto Morishita|Shonen|Aventure||im.jpg
-19|Inuyashiki|Hiroya Oku|Seinen|Science-fiction||inuyashiki.jpg
-20|Jagaaan|Muneyuki Kaneshiro|Seinen|Surnaturel||jagaaan.jpg
-21|Kingdom Hearts|Shiro Amono|Shonen|Fantasy||kingdom_hearts.jpg
-22|Kingdom|Yasuhisa Hara|Seinen|Historique||kingdom.jpg
-23|Konosuba|Natsume Akatsuki|Light Novel|Comédie||konosuba.jpg
-24|Kuroko's Basket|Tadatoshi Fujimaki|Shonen|Sport||kuroko.jpg
-25|Made in Abyss|Akihito Tsukushi|Seinen|Isekai||made_in_abyss.jpg
-26|Magi|Shinobu Ohtaka|Shonen|Fantasy||magi.jpg
-27|Mob psycho 100|ONE|Shonen|Surnaturel||mob_psycho.jpg
-28|Naruto|Masashi Kishimoto|Shonen|Ninja||naruto.jpg
-29|Nisekoi|Naoshi Komi|Shonen|Romance||nisekoi.jpg
-30|No Game No life|Yū Kamiya|Seinen|Isekai||no_game_no_life.jpg
-31|One Piece|Eiichirō Oda|Shonen|Pirate||one_piece.jpg
-32|Overlord|Kugane Maruyama|Seinen|Isekai||overlord.jpg
-33|Promised Neverland|Kaiu Shirai|Shonen|Science-fiction||promised_never_land.jpg
-34|Radiant|Tony Valente|Shonen|Fantasy||radiant.jpg
-35|Re:Zero|Tappei Nagatsuki|Seinen|Isekai||re_zero.jpg
-36|One punch man|ONE|Seinen|Super-héros||saitama.jpg
-37|Seven deadly Sins|Nakaba Suzuki|Shonen|Fantasy||seven_deadly_sins.jpg
-38|Rising of the Shield hero|Aneko Yusagi|Seinen|Isekai||shield_hero.jpg
-39|Steins Gate|Sarachi Yomi|Seinen|Science-fiction||steins_gate.jpg
-40|Wakfu|Anthony Roux|Shonen|Fantasy||wakfu.jpg
+6|Boruto|Ukyo Kodachi|Shonen|Ninja|Boruto fils du chef du village de konoha cherche à attirer l'attention de son en devenant ninja confirmé. suivez l'aventure de ce ninja en herbe sur sa route pour devenir un grand ninja !|boruto.jpg
+7|Dr.Stone|Riichiro inagaki|Shonen|Post-apocalypse|Après que toute la planète Terre fut figé dans la pierre quelques personnes vont sortir de leur sommeil et se retrouver sur cette nouvelle terre en repartant de 0.|dr_stone.jpg
+8|Eden zero|Hiro Mashima|Shonen|Fantasy|Shiki Granbell orphelin vivant sur une planète habité par des robots vie une vie paisible jusqu'à ce qu'un visiteur venu d'ailleurs lui apprend que le monde est plus grand que sa simple planète.|eden_zero.jpg
+9|Fairy tail|Hiro Mashima|Shonen|Fantasy|Natsu appartenant a une guilde de magicien va faire la rencontre de lucy qui va rejoindre cette même guilde. Suivez leurs aventures tout au long de Fairy tail !|fairy_tail.jpg
+10|Fate zero|Gen Urobochi|Light Novel|Dark Fantasy|Une guerre ou sept Grands magiciens vont invoquer des esprits mythiques de héros anciens vont livrer bataille pour obtenir un voeu qui leur est accordé par le grand Graal. Suivez cette guerre pour savoir qui verra son voeu exaucé !|fate_zero.jpg
+11|Fire  force|Atsushi okubo|Shonen|Aventure|Dans un monde où les humains peuvent prendre feu à n’importe quel moment et devenir des torches humaines accompagnez Shinra qui veut devenir pompier et trouver la cause de ce mystérieux phénomène.|fire_force.jpg
+12|Fullmetal alchemist|Hiromu Harakawa|Shonen|Science-fiction|Suivez les frères Elric alchimistes connus dans leur quêtes pour retrouver leur corps d’origine après perdus après avoir commis un tabou de l’alchimie.|fma.jpg
+13|Food wars|Yuto Tsukuda|Shonen|Culinaire|Soma jeune cuistot se voit intégrer une école d’élite culinaire afin de suivre les pas de son père un des chefs les plus prestigieux du monde ! Suivez son ascension pour devenir chef à travers des duels de chef !|food_wars.jpg
+14|Goblin slayer|Kumo Kagyu|Light Novel|Fantasy|Une jeune prêtresse d’une guilde d’aventuriers se perd dans une grotte où elle va être pris en embuscade par des goblins, c’est ici qu’elle fera la rencontre du goblin slayer héros dont le but est d’éradiquer les goblins.|goblin_slayer.jpg
+15|GTO|Toru Fujisawa|Shonen|Comédie|Eikichi Onizuka, 22 ans, « célibataire et libre comme l'air », est un jeune professeur au passé douteux qui est nommé pour son premier poste dans une classe difficile. Il montre rapidement une vision de l'enseignement totalement décalée avec les pratiques habituelles. Suivez ce prof et sa méthode d’enseigner pas comme les autres.|gto.jpg
+16|Haikyu|Haruichi Furudate|Shonen|Sport|Shōyō Hinata malgré sa petite taille rêve de rejoindre une équipe de volley et de faire partie des équipe qui sont nommées championne du japon. Suivez son ascension vers le titre de n°1 du volley !|haikyu.jpg
+17|Hunter x Hunter|Yoshihiro Togashi|Shonen|Aventure|Gon jeune garçon, rêve de devenir un hunter comme son père parti après sa naissance afin de le retrouver avec les indices qu’il a laissé derrière lui pour que Gon puisse le retrouver !|hxh.jpg
+18|Im|Makoto Morishita|Shonen|Aventure|Dans un monde totalement différent de celui ou il vivait Im se reveil 2000 ans plus tard dans un monde où il doit réparer les erreurs commises dans le passé en capturant les fauses divinités semant le désordre.|im.jpg
+19|Inuyashiki|Hiroya Oku|Seinen|Science-fiction|Ichirō Inuyashiki n'a rien pour lui. Âgé de 58 ans, il paraît nettement plus vieux. Sa santé se dégrade et sa famille le méprise. Un soir alors qu’il se promène un vaisseau s’écrase et c’est grâce à ce dernier que l’histoire d’inuyashiki commence.|inuyashiki.jpg
+20|Jagaaan|Muneyuki Kaneshiro|Seinen|Surnaturel|Shintarou Jagasaki policier vivant avec sa femme mène une vie calme et paisible jusqu’au jour ou dans un train, un monstre surgit ce qui va bouleverser sa vie !|jagaaan.jpg
+21|Kingdom Hearts|Shiro Amono|Shonen|Fantasy|Sora vivant sur l’île de la destiné avec ses 2 amis Kairi et Riku ont une vie paisible et rêvent de partir, jusqu’au jour ou une catastrophe va leur apprendre que le monde est bien plus vaste que leur petite île.|kingdom_hearts.jpg
+22|Kingdom|Yasuhisa Hara|Seinen|Historique|Le récit suit le jeune Shin dans son chemin vers l'accomplissement de son rêve : devenir un Grand Général. Dans cette Chine ancestrale, suivez son ascension pour réaliser son rêve.|kingdom.jpg
+23|Konosuba|Natsume Akatsuki|Light Novel|Comédie|Après une mort prématurée et embarrassante, Kazuma Satō, il rencontre une déesse Aqua qui lui propose de se réincarner dans un nouveau monde en choisissant n’importe quoi pour l’accompagner. Suite à une provocation de la déesse il décide d’aller dans ce monde avec elle !|konosuba.jpg
+24|Kuroko's Basket|Tadatoshi Fujimaki|Shonen|Sport|Un équipe de collégiens extrêmement dans leur équipe de basket sont séparé dans le japon lors de leur passage au lycée. Suivez le rêve de kuroko un des membre de cette équipe pour devenir n°1 du basket au japon !|kuroko.jpg
+25|Made in Abyss|Akihito Tsukushi|Seinen|Isekai|La jeune orpheline Riko vit dans la ville de Orth, là ou l'Abysse, gigantesque trou cache des mystères qu’elle veut découvrir pour en savoir plus sur sa mère exploratrice de l’Abysse.|made_in_abyss.jpg
+26|Magi|Shinobu Ohtaka|Shonen|Fantasy|A plusieurs endroits dans le monde d’immenses tour ont fait leur apparition cachant nombreux trésors, et richesses suivez AliBaba un jeune marchand voulant partir pour explorer ces mystérieuses tours et découvrir leurs secrets .|magi.jpg
+27|Mob psycho 100|ONE|Shonen|Surnaturel|Un monde où les esprits sont très présents découvrez Mob jeune garçon avec des pouvoirs télékinésiques, suit sa vie de collégien tout en exorcisant des esprits. Mais il n’est pas le seul à avoir de tels pouvoirs… Découvrez la suite dans le manga !|mob_psycho.jpg
+28|Naruto|Masashi Kishimoto|Shonen|Ninja|Jeune orphelin du village de Konoha, Naruto rêve de devenir chef du village malgré l’image de “ sale gosse “ qu’on lui donne, c’est plein de détermination qu’il rêve de devenir le meilleur des ninja.|naruto.jpg
+29|Nisekoi|Naoshi Komi|Shonen|Romance|Raku ichigo jeune lycéen sans histoire se retrouve embarquer dans les histoires de gang de yakuza de son père et se retrouve à jouer les faux-couples avec la fille du chef de gang adverse !|nisekoi.jpg
+30|No Game No life|Yū Kamiya|Seinen|Isekai|Un frère et une soeur ayant un don inné pour les jeux en général se retrouve dans un monde où tout est décidé par le jeu suivez leur évolution dans ce monde !|no_game_no_life.jpg
+31|One Piece|Eiichirō Oda|Shonen|Pirate|20 ans après la mort du roi des pirates Gol D. Roger, Monkey D. Luffy décide de partir à la recherche du trésor de Roger et de devenir le Futur Roi des Pirates !|one_piece.jpg
+32|Overlord|Kugane Maruyama|Seinen|Isekai|Après des années sur un jeu vidéo notre personnage principal se retrouve coincé dans celui ci en tant que son personnage ou il est le plus puissant. Découvrez le monde dans lequel il a joué à la recherche de réponses à ses questions.|overlord.jpg
+33|Promised Neverland|Kaiu Shirai|Shonen|Science-fiction|Dans un orphelinat des enfants sont élevés et mènent une vie paisible sous la bienveillance de leur “ mère” plusieurs choses attirent leur curiosité et vont les amener à découvrir des secrets inimaginables sur ce qui est au-delà des murs de l’orphelinat.|promised_never_land.jpg
+34|Radiant|Tony Valente|Shonen|Fantasy|Seth jeune sorcier rêve de détruire le Radiant, nid des nemesis qui vivent dans le monde et infectant des habitant avec une malédiction. Suivez sa quête pour trouver ce lieux jusque là encore inexploré !|radiant.jpg
+35|Re:Zero|Tappei Nagatsuki|Seinen|Isekai|Un jour en sortant faire des courses Subaru jeune lycéen après un clignement de cil se retrouve dans un monde fantastique peuplé par des humains et d’autres créatures. Suivez son aventure dans ce nouveau monde tout à fait inconnu pour lui !|re_zero.jpg
+36|One punch man|ONE|Seinen|Super-héros|Saitama super héros finissant tous ses combats d’un seul coup de poing cherche le frisson du combat qu’il à perdu en devenant héros professionnel dans un pays où tout peut arriver!|saitama.jpg
+37|Seven deadly Sins|Nakaba Suzuki|Shonen|Fantasy|La princesse Elizabeth est à la recherche des héros des septs péchés capitaux afin de lutter contre la révolution qui se et en place contre son père. Elle fait la rencontre de Méliodas un tavernier qui n’est pas comme les autres et qui cache quelque chose.|seven_deadly_sins.jpg
+38|Rising of the Shield hero|Aneko Yusagi|Seinen|Isekai|Après avoir ouvert un livre Naofumi se retrouve aspiré dans un monde ou il devient le héros au bouclier, il va devoir lutter contre les “Vagues” pour sauver ce monde qui n’est pas le sien et où tout ne tourne pas rond par rapport au héros du bouclier.|shield_hero.jpg
+39|Steins Gate|Sarachi Yomi|Seinen|Science-fiction|un groupe d'amis qui ont transformé leur micro-ondes par inadvertance en dispositif pouvant envoyer des messages texte vers le passé. Dans le but de comprendre ce phénomène ils effectuent différentes expériences concernant le voyage dans le temps. Ils sont vite traqués par le centre de recherche CERN, qui réalise ses propres recherches sur les voyages temporels. Rintaro va donc utiliser la capacité du four à micro-ondes et se rendre rapidement compte que chaque modification du passé a un impact irréversible sur le présent|steins_gate.jpg
+40|Wakfu|Anthony Roux|Shonen|Fantasy|Yugo et son frère jumeau Adamaï fêtent leurs 14 ans. Alibert leur a préparé une surprise en invitant leurs amisJiva, gardienne du mois de Javian, vient perturber les festivités. Elle ordonne à Yugo de lui remettre les six Dofus des Eliatropes. Bien entendu Yugo n’a aucune idée de l’endroit où sont cachés les Dofus. Suivez sa quete pour les Dofus !|wakfu.jpg
