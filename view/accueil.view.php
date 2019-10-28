@@ -34,4 +34,3 @@ require_once('header.view.html');
 //
 require_once('footer.view.html');
  ?>
-</html>

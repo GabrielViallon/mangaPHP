@@ -22,4 +22,3 @@
    </div>
   </body>
   <?php require_once('footer.view.html'); ?>
-</html>

@@ -12,7 +12,7 @@ $categorie = $_GET['cat'];
 
 require_once('header.view.html');
 
-echo '<body><container>';
+echo '<body><h1>'.$categorie.'</h1><container>';
 require_once('../model/MangaDAO.class.php');
 $mangas = new MangaDAO('../model/data');
 
@@ -29,12 +29,11 @@ else if (isset($_GET['search'])){
 
 foreach ($tableauMangas as $val) {
 
- echo '<a href="product.view.php?ref='.$val['Reference']
+ echo '<div><a href="product.view.php?ref='.$val['Reference']
  .'"><img src="../model/data/images_manga/'.$val['Image'].'" alt="'.$val['Image']
- .'">'.$val['Titre'].'</a>';
+ .'">'.$val['Titre'].'</a></div>';
 }
 
 echo '</container></body>';
 require_once('footer.view.html');
 ?>
-</html>

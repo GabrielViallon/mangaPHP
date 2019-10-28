@@ -8,3 +8,19 @@ container{
 container a{
   display: flex;
 }
+
+div{
+  border-radius: 0% 8% 8% 0%;
+  padding: 7px;
+  font-size: 120%;
+}
+
+div:hover{
+  font-size: 130%;
+  font-weight: bold;
+  background-color: #4a4a4a;
+}
+
+a:hover{
+  color:white;
+}
