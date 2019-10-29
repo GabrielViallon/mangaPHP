@@ -17,7 +17,7 @@ class MangaDAO{
     $res = $this->db->query($sql);
     return $res;
   }
-
+  
   public function getSearch(string $search){
     $tabMangas = $this->getAll();
     foreach ($tabMangas as $key) {

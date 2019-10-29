@@ -8,7 +8,7 @@
   </head>
   <?php require_once('header.view.html'); ?>
   <body>
-    <h2>Vos librairies de Grenoble :</h2>
+    <h1>Vos librairies de Grenoble :</h1>
     <?php
     require_once('../model/LibrairieDAO.class.php');
     $librairies = new LibrairieDAO('../model/data');
@@ -16,7 +16,7 @@
 
     foreach ($tableauLibrairies as $val) {
 
-     echo '<div><h2>'.$val['Nom'].'</h2>&nbsp;|&nbsp;'.$val['Adresse'].'</div>';
+     echo '<div><a href="mangasLib.view.php?lib='.$val['Adresse'].'"><h2>'.$val['Nom'].'</h2><p>| '.$val['Adresse'].'</p></a></div>';
     }
      ?>
    </body>

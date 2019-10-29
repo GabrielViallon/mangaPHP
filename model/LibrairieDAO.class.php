@@ -12,7 +12,7 @@ class LibrairieDAO{
     }
 
   public function get(int $addr){
-    $sql = "SELECT * FROM Libraire WHERE Adresse=$addr";
+    $sql = "SELECT * FROM Librairie WHERE Adresse=$addr";
     $res = $this->db->query($sql);
     return $res;
   }

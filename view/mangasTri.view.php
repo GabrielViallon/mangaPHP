@@ -31,7 +31,7 @@ foreach ($tableauMangas as $val) {
 
  echo '<div><a href="product.view.php?ref='.$val['Reference']
  .'"><img src="../model/data/images_manga/'.$val['Image'].'" alt="'.$val['Image']
- .'">'.$val['Titre'].'</a></div>';
+ .'"><article><h2>'.$val['Titre'].'</h2><p>dispo dans '.' magasins</p></article></a></div>';
 }
 
 echo '</container></body>';

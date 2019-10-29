@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "ssh-mangastarter.alwaysdata.net",
+    "username": "mangastarter",
+    "password": "sexylama34",
+    "port": 22,
+    "remotePath": "/home/mangastarter",
+    "uploadOnSave": true
+}

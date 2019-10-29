@@ -1,16 +1,31 @@
-container{
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-gap: 20px;
-  grid-auto-rows: minmax(0px, auto);
+div a{
+  margin: 1%;
+  padding: 2%;
+  display: flex;
+  color: #e3e3e3;
 }
 
 div{
-  display: flex;
-  align-items: center;
-  padding: 15px;
+  padding: 0px;
+  font-size: 100%;
+  background-color: #003d5b;
+}
+
+h2{
+  margin: auto;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding:0;
+}
+
+div:hover{
+  background-color: #b4b8ab;
+}
+
+p{
+  font-size: 100%;
 }
 
 a:hover{
-  color:white;
+  color:#292929;
 }
