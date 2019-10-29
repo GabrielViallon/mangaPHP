@@ -15,8 +15,12 @@ CREATE TABLE Librairie (
 );
 
 CREATE TABLE Stock (
-  Librairie VARCHAR,
+  LibrairieAddr VARCHAR,
   Ref INTEGER,
   Dispo INTEGER,
-  PRIMARY KEY ('Libraire','Ref')
+  PRIMARY KEY ('LibrairieAddr','Ref'),
+  FOREIGN KEY ('LibrairieAddr')
+  REFERENCES Libraire('Adresse'),
+  FOREIGN KEY ('Ref')
+  REFERENCES Manga('Reference')
 );

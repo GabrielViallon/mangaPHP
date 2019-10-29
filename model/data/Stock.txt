@@ -1,0 +1,360 @@
+19 Avenue Alsace Lorraine, 38000 Grenoble|1|4
+19 Avenue Alsace Lorraine, 38000 Grenoble|2|4
+19 Avenue Alsace Lorraine, 38000 Grenoble|3|1
+19 Avenue Alsace Lorraine, 38000 Grenoble|4|4
+19 Avenue Alsace Lorraine, 38000 Grenoble|5|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|6|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|7|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|8|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|9|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|10|4
+19 Avenue Alsace Lorraine, 38000 Grenoble|11|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|12|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|13|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|14|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|15|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|16|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|17|8
+19 Avenue Alsace Lorraine, 38000 Grenoble|18|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|19|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|20|8
+19 Avenue Alsace Lorraine, 38000 Grenoble|21|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|22|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|23|0
+19 Avenue Alsace Lorraine, 38000 Grenoble|24|1
+19 Avenue Alsace Lorraine, 38000 Grenoble|25|7
+19 Avenue Alsace Lorraine, 38000 Grenoble|26|6
+19 Avenue Alsace Lorraine, 38000 Grenoble|27|1
+19 Avenue Alsace Lorraine, 38000 Grenoble|28|1
+19 Avenue Alsace Lorraine, 38000 Grenoble|29|7
+19 Avenue Alsace Lorraine, 38000 Grenoble|30|4
+19 Avenue Alsace Lorraine, 38000 Grenoble|31|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|32|5
+19 Avenue Alsace Lorraine, 38000 Grenoble|33|3
+19 Avenue Alsace Lorraine, 38000 Grenoble|34|7
+19 Avenue Alsace Lorraine, 38000 Grenoble|35|3
+19 Avenue Alsace Lorraine, 38000 Grenoble|36|4
+19 Avenue Alsace Lorraine, 38000 Grenoble|37|2
+19 Avenue Alsace Lorraine, 38000 Grenoble|38|2
+19 Avenue Alsace Lorraine, 38000 Grenoble|39|7
+19 Avenue Alsace Lorraine, 38000 Grenoble|40|2
+4 Rue Béranger, 38000 Grenoble|1|6
+4 Rue Béranger, 38000 Grenoble|2|1
+4 Rue Béranger, 38000 Grenoble|3|1
+4 Rue Béranger, 38000 Grenoble|4|4
+4 Rue Béranger, 38000 Grenoble|5|5
+4 Rue Béranger, 38000 Grenoble|6|2
+4 Rue Béranger, 38000 Grenoble|7|0
+4 Rue Béranger, 38000 Grenoble|8|4
+4 Rue Béranger, 38000 Grenoble|9|6
+4 Rue Béranger, 38000 Grenoble|10|4
+4 Rue Béranger, 38000 Grenoble|11|0
+4 Rue Béranger, 38000 Grenoble|12|6
+4 Rue Béranger, 38000 Grenoble|13|3
+4 Rue Béranger, 38000 Grenoble|14|0
+4 Rue Béranger, 38000 Grenoble|15|4
+4 Rue Béranger, 38000 Grenoble|16|7
+4 Rue Béranger, 38000 Grenoble|17|0
+4 Rue Béranger, 38000 Grenoble|18|7
+4 Rue Béranger, 38000 Grenoble|19|7
+4 Rue Béranger, 38000 Grenoble|20|4
+4 Rue Béranger, 38000 Grenoble|21|4
+4 Rue Béranger, 38000 Grenoble|22|0
+4 Rue Béranger, 38000 Grenoble|23|6
+4 Rue Béranger, 38000 Grenoble|24|2
+4 Rue Béranger, 38000 Grenoble|25|1
+4 Rue Béranger, 38000 Grenoble|26|1
+4 Rue Béranger, 38000 Grenoble|27|1
+4 Rue Béranger, 38000 Grenoble|28|4
+4 Rue Béranger, 38000 Grenoble|29|1
+4 Rue Béranger, 38000 Grenoble|30|0
+4 Rue Béranger, 38000 Grenoble|31|1
+4 Rue Béranger, 38000 Grenoble|32|8
+4 Rue Béranger, 38000 Grenoble|33|3
+4 Rue Béranger, 38000 Grenoble|34|3
+4 Rue Béranger, 38000 Grenoble|35|4
+4 Rue Béranger, 38000 Grenoble|36|6
+4 Rue Béranger, 38000 Grenoble|37|6
+4 Rue Béranger, 38000 Grenoble|38|4
+4 Rue Béranger, 38000 Grenoble|39|6
+4 Rue Béranger, 38000 Grenoble|40|5
+6 Rue Lakanal, 38000 Grenoble|1|5
+6 Rue Lakanal, 38000 Grenoble|2|6
+6 Rue Lakanal, 38000 Grenoble|3|4
+6 Rue Lakanal, 38000 Grenoble|4|8
+6 Rue Lakanal, 38000 Grenoble|5|1
+6 Rue Lakanal, 38000 Grenoble|6|1
+6 Rue Lakanal, 38000 Grenoble|7|2
+6 Rue Lakanal, 38000 Grenoble|8|8
+6 Rue Lakanal, 38000 Grenoble|9|0
+6 Rue Lakanal, 38000 Grenoble|10|4
+6 Rue Lakanal, 38000 Grenoble|11|5
+6 Rue Lakanal, 38000 Grenoble|12|2
+6 Rue Lakanal, 38000 Grenoble|13|3
+6 Rue Lakanal, 38000 Grenoble|14|0
+6 Rue Lakanal, 38000 Grenoble|15|5
+6 Rue Lakanal, 38000 Grenoble|16|8
+6 Rue Lakanal, 38000 Grenoble|17|8
+6 Rue Lakanal, 38000 Grenoble|18|5
+6 Rue Lakanal, 38000 Grenoble|19|7
+6 Rue Lakanal, 38000 Grenoble|20|7
+6 Rue Lakanal, 38000 Grenoble|21|8
+6 Rue Lakanal, 38000 Grenoble|22|8
+6 Rue Lakanal, 38000 Grenoble|23|5
+6 Rue Lakanal, 38000 Grenoble|24|3
+6 Rue Lakanal, 38000 Grenoble|25|6
+6 Rue Lakanal, 38000 Grenoble|26|2
+6 Rue Lakanal, 38000 Grenoble|27|6
+6 Rue Lakanal, 38000 Grenoble|28|4
+6 Rue Lakanal, 38000 Grenoble|29|4
+6 Rue Lakanal, 38000 Grenoble|30|2
+6 Rue Lakanal, 38000 Grenoble|31|2
+6 Rue Lakanal, 38000 Grenoble|32|6
+6 Rue Lakanal, 38000 Grenoble|33|2
+6 Rue Lakanal, 38000 Grenoble|34|4
+6 Rue Lakanal, 38000 Grenoble|35|6
+6 Rue Lakanal, 38000 Grenoble|36|7
+6 Rue Lakanal, 38000 Grenoble|37|6
+6 Rue Lakanal, 38000 Grenoble|38|4
+6 Rue Lakanal, 38000 Grenoble|39|8
+6 Rue Lakanal, 38000 Grenoble|40|1
+5 Cours Berriat, 38000 Grenoble|1|7
+5 Cours Berriat, 38000 Grenoble|2|8
+5 Cours Berriat, 38000 Grenoble|3|3
+5 Cours Berriat, 38000 Grenoble|4|8
+5 Cours Berriat, 38000 Grenoble|5|5
+5 Cours Berriat, 38000 Grenoble|6|7
+5 Cours Berriat, 38000 Grenoble|7|4
+5 Cours Berriat, 38000 Grenoble|8|2
+5 Cours Berriat, 38000 Grenoble|9|4
+5 Cours Berriat, 38000 Grenoble|10|0
+5 Cours Berriat, 38000 Grenoble|11|2
+5 Cours Berriat, 38000 Grenoble|12|4
+5 Cours Berriat, 38000 Grenoble|13|2
+5 Cours Berriat, 38000 Grenoble|14|3
+5 Cours Berriat, 38000 Grenoble|15|3
+5 Cours Berriat, 38000 Grenoble|16|4
+5 Cours Berriat, 38000 Grenoble|17|3
+5 Cours Berriat, 38000 Grenoble|18|1
+5 Cours Berriat, 38000 Grenoble|19|4
+5 Cours Berriat, 38000 Grenoble|20|4
+5 Cours Berriat, 38000 Grenoble|21|0
+5 Cours Berriat, 38000 Grenoble|22|2
+5 Cours Berriat, 38000 Grenoble|23|2
+5 Cours Berriat, 38000 Grenoble|24|0
+5 Cours Berriat, 38000 Grenoble|25|1
+5 Cours Berriat, 38000 Grenoble|26|7
+5 Cours Berriat, 38000 Grenoble|27|2
+5 Cours Berriat, 38000 Grenoble|28|8
+5 Cours Berriat, 38000 Grenoble|29|2
+5 Cours Berriat, 38000 Grenoble|30|2
+5 Cours Berriat, 38000 Grenoble|31|1
+5 Cours Berriat, 38000 Grenoble|32|4
+5 Cours Berriat, 38000 Grenoble|33|3
+5 Cours Berriat, 38000 Grenoble|34|2
+5 Cours Berriat, 38000 Grenoble|35|3
+5 Cours Berriat, 38000 Grenoble|36|0
+5 Cours Berriat, 38000 Grenoble|37|2
+5 Cours Berriat, 38000 Grenoble|38|8
+5 Cours Berriat, 38000 Grenoble|39|4
+5 Cours Berriat, 38000 Grenoble|40|2
+20 Boulevard Gambetta, 38000 Grenoble|1|1
+20 Boulevard Gambetta, 38000 Grenoble|2|4
+20 Boulevard Gambetta, 38000 Grenoble|3|5
+20 Boulevard Gambetta, 38000 Grenoble|4|3
+20 Boulevard Gambetta, 38000 Grenoble|5|8
+20 Boulevard Gambetta, 38000 Grenoble|6|0
+20 Boulevard Gambetta, 38000 Grenoble|7|2
+20 Boulevard Gambetta, 38000 Grenoble|8|3
+20 Boulevard Gambetta, 38000 Grenoble|9|1
+20 Boulevard Gambetta, 38000 Grenoble|10|6
+20 Boulevard Gambetta, 38000 Grenoble|11|0
+20 Boulevard Gambetta, 38000 Grenoble|12|5
+20 Boulevard Gambetta, 38000 Grenoble|13|0
+20 Boulevard Gambetta, 38000 Grenoble|14|4
+20 Boulevard Gambetta, 38000 Grenoble|15|1
+20 Boulevard Gambetta, 38000 Grenoble|16|3
+20 Boulevard Gambetta, 38000 Grenoble|17|4
+20 Boulevard Gambetta, 38000 Grenoble|18|7
+20 Boulevard Gambetta, 38000 Grenoble|19|1
+20 Boulevard Gambetta, 38000 Grenoble|20|2
+20 Boulevard Gambetta, 38000 Grenoble|21|0
+20 Boulevard Gambetta, 38000 Grenoble|22|0
+20 Boulevard Gambetta, 38000 Grenoble|23|5
+20 Boulevard Gambetta, 38000 Grenoble|24|4
+20 Boulevard Gambetta, 38000 Grenoble|25|2
+20 Boulevard Gambetta, 38000 Grenoble|26|5
+20 Boulevard Gambetta, 38000 Grenoble|27|0
+20 Boulevard Gambetta, 38000 Grenoble|28|8
+20 Boulevard Gambetta, 38000 Grenoble|29|7
+20 Boulevard Gambetta, 38000 Grenoble|30|0
+20 Boulevard Gambetta, 38000 Grenoble|31|0
+20 Boulevard Gambetta, 38000 Grenoble|32|8
+20 Boulevard Gambetta, 38000 Grenoble|33|7
+20 Boulevard Gambetta, 38000 Grenoble|34|7
+20 Boulevard Gambetta, 38000 Grenoble|35|0
+20 Boulevard Gambetta, 38000 Grenoble|36|8
+20 Boulevard Gambetta, 38000 Grenoble|37|0
+20 Boulevard Gambetta, 38000 Grenoble|38|2
+20 Boulevard Gambetta, 38000 Grenoble|39|5
+20 Boulevard Gambetta, 38000 Grenoble|40|6
+10 Rue Millet, 38000 Grenoble|1|0
+10 Rue Millet, 38000 Grenoble|2|0
+10 Rue Millet, 38000 Grenoble|3|0
+10 Rue Millet, 38000 Grenoble|4|4
+10 Rue Millet, 38000 Grenoble|5|2
+10 Rue Millet, 38000 Grenoble|6|3
+10 Rue Millet, 38000 Grenoble|7|0
+10 Rue Millet, 38000 Grenoble|8|8
+10 Rue Millet, 38000 Grenoble|9|5
+10 Rue Millet, 38000 Grenoble|10|4
+10 Rue Millet, 38000 Grenoble|11|1
+10 Rue Millet, 38000 Grenoble|12|3
+10 Rue Millet, 38000 Grenoble|13|4
+10 Rue Millet, 38000 Grenoble|14|5
+10 Rue Millet, 38000 Grenoble|15|3
+10 Rue Millet, 38000 Grenoble|16|0
+10 Rue Millet, 38000 Grenoble|17|0
+10 Rue Millet, 38000 Grenoble|18|8
+10 Rue Millet, 38000 Grenoble|19|3
+10 Rue Millet, 38000 Grenoble|20|6
+10 Rue Millet, 38000 Grenoble|21|2
+10 Rue Millet, 38000 Grenoble|22|7
+10 Rue Millet, 38000 Grenoble|23|1
+10 Rue Millet, 38000 Grenoble|24|7
+10 Rue Millet, 38000 Grenoble|25|8
+10 Rue Millet, 38000 Grenoble|26|8
+10 Rue Millet, 38000 Grenoble|27|8
+10 Rue Millet, 38000 Grenoble|28|1
+10 Rue Millet, 38000 Grenoble|29|0
+10 Rue Millet, 38000 Grenoble|30|3
+10 Rue Millet, 38000 Grenoble|31|6
+10 Rue Millet, 38000 Grenoble|32|3
+10 Rue Millet, 38000 Grenoble|33|0
+10 Rue Millet, 38000 Grenoble|34|8
+10 Rue Millet, 38000 Grenoble|35|2
+10 Rue Millet, 38000 Grenoble|36|5
+10 Rue Millet, 38000 Grenoble|37|5
+10 Rue Millet, 38000 Grenoble|38|1
+10 Rue Millet, 38000 Grenoble|39|3
+10 Rue Millet, 38000 Grenoble|40|8
+9 Boulevard Agutte Sembat, 38000 Grenoble|1|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|2|4
+9 Boulevard Agutte Sembat, 38000 Grenoble|3|3
+9 Boulevard Agutte Sembat, 38000 Grenoble|4|5
+9 Boulevard Agutte Sembat, 38000 Grenoble|5|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|6|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|7|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|8|0
+9 Boulevard Agutte Sembat, 38000 Grenoble|9|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|10|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|11|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|12|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|13|5
+9 Boulevard Agutte Sembat, 38000 Grenoble|14|3
+9 Boulevard Agutte Sembat, 38000 Grenoble|15|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|16|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|17|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|18|1
+9 Boulevard Agutte Sembat, 38000 Grenoble|19|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|20|1
+9 Boulevard Agutte Sembat, 38000 Grenoble|21|0
+9 Boulevard Agutte Sembat, 38000 Grenoble|22|2
+9 Boulevard Agutte Sembat, 38000 Grenoble|23|8
+9 Boulevard Agutte Sembat, 38000 Grenoble|24|2
+9 Boulevard Agutte Sembat, 38000 Grenoble|25|3
+9 Boulevard Agutte Sembat, 38000 Grenoble|26|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|27|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|28|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|29|8
+9 Boulevard Agutte Sembat, 38000 Grenoble|30|8
+9 Boulevard Agutte Sembat, 38000 Grenoble|31|1
+9 Boulevard Agutte Sembat, 38000 Grenoble|32|7
+9 Boulevard Agutte Sembat, 38000 Grenoble|33|0
+9 Boulevard Agutte Sembat, 38000 Grenoble|34|4
+9 Boulevard Agutte Sembat, 38000 Grenoble|35|4
+9 Boulevard Agutte Sembat, 38000 Grenoble|36|6
+9 Boulevard Agutte Sembat, 38000 Grenoble|37|0
+9 Boulevard Agutte Sembat, 38000 Grenoble|38|4
+9 Boulevard Agutte Sembat, 38000 Grenoble|39|3
+9 Boulevard Agutte Sembat, 38000 Grenoble|40|0
+4 Rue Félix Poulat, 38000 Grenoble|1|0
+4 Rue Félix Poulat, 38000 Grenoble|2|3
+4 Rue Félix Poulat, 38000 Grenoble|3|0
+4 Rue Félix Poulat, 38000 Grenoble|4|5
+4 Rue Félix Poulat, 38000 Grenoble|5|2
+4 Rue Félix Poulat, 38000 Grenoble|6|4
+4 Rue Félix Poulat, 38000 Grenoble|7|0
+4 Rue Félix Poulat, 38000 Grenoble|8|8
+4 Rue Félix Poulat, 38000 Grenoble|9|2
+4 Rue Félix Poulat, 38000 Grenoble|10|1
+4 Rue Félix Poulat, 38000 Grenoble|11|6
+4 Rue Félix Poulat, 38000 Grenoble|12|0
+4 Rue Félix Poulat, 38000 Grenoble|13|4
+4 Rue Félix Poulat, 38000 Grenoble|14|8
+4 Rue Félix Poulat, 38000 Grenoble|15|6
+4 Rue Félix Poulat, 38000 Grenoble|16|1
+4 Rue Félix Poulat, 38000 Grenoble|17|8
+4 Rue Félix Poulat, 38000 Grenoble|18|8
+4 Rue Félix Poulat, 38000 Grenoble|19|1
+4 Rue Félix Poulat, 38000 Grenoble|20|4
+4 Rue Félix Poulat, 38000 Grenoble|21|0
+4 Rue Félix Poulat, 38000 Grenoble|22|3
+4 Rue Félix Poulat, 38000 Grenoble|23|0
+4 Rue Félix Poulat, 38000 Grenoble|24|7
+4 Rue Félix Poulat, 38000 Grenoble|25|5
+4 Rue Félix Poulat, 38000 Grenoble|26|3
+4 Rue Félix Poulat, 38000 Grenoble|27|3
+4 Rue Félix Poulat, 38000 Grenoble|28|1
+4 Rue Félix Poulat, 38000 Grenoble|29|4
+4 Rue Félix Poulat, 38000 Grenoble|30|8
+4 Rue Félix Poulat, 38000 Grenoble|31|4
+4 Rue Félix Poulat, 38000 Grenoble|32|3
+4 Rue Félix Poulat, 38000 Grenoble|33|6
+4 Rue Félix Poulat, 38000 Grenoble|34|1
+4 Rue Félix Poulat, 38000 Grenoble|35|3
+4 Rue Félix Poulat, 38000 Grenoble|36|3
+4 Rue Félix Poulat, 38000 Grenoble|37|0
+4 Rue Félix Poulat, 38000 Grenoble|38|8
+4 Rue Félix Poulat, 38000 Grenoble|39|6
+4 Rue Félix Poulat, 38000 Grenoble|40|0
+7 Rue Genissieu, 38000 Grenoble|1|6
+7 Rue Genissieu, 38000 Grenoble|2|7
+7 Rue Genissieu, 38000 Grenoble|3|4
+7 Rue Genissieu, 38000 Grenoble|4|0
+7 Rue Genissieu, 38000 Grenoble|5|0
+7 Rue Genissieu, 38000 Grenoble|6|8
+7 Rue Genissieu, 38000 Grenoble|7|7
+7 Rue Genissieu, 38000 Grenoble|8|0
+7 Rue Genissieu, 38000 Grenoble|9|3
+7 Rue Genissieu, 38000 Grenoble|10|0
+7 Rue Genissieu, 38000 Grenoble|11|2
+7 Rue Genissieu, 38000 Grenoble|12|5
+7 Rue Genissieu, 38000 Grenoble|13|5
+7 Rue Genissieu, 38000 Grenoble|14|3
+7 Rue Genissieu, 38000 Grenoble|15|7
+7 Rue Genissieu, 38000 Grenoble|16|8
+7 Rue Genissieu, 38000 Grenoble|17|2
+7 Rue Genissieu, 38000 Grenoble|18|1
+7 Rue Genissieu, 38000 Grenoble|19|5
+7 Rue Genissieu, 38000 Grenoble|20|8
+7 Rue Genissieu, 38000 Grenoble|21|7
+7 Rue Genissieu, 38000 Grenoble|22|1
+7 Rue Genissieu, 38000 Grenoble|23|8
+7 Rue Genissieu, 38000 Grenoble|24|7
+7 Rue Genissieu, 38000 Grenoble|25|3
+7 Rue Genissieu, 38000 Grenoble|26|4
+7 Rue Genissieu, 38000 Grenoble|27|6
+7 Rue Genissieu, 38000 Grenoble|28|5
+7 Rue Genissieu, 38000 Grenoble|29|4
+7 Rue Genissieu, 38000 Grenoble|30|0
+7 Rue Genissieu, 38000 Grenoble|31|3
+7 Rue Genissieu, 38000 Grenoble|32|5
+7 Rue Genissieu, 38000 Grenoble|33|6
+7 Rue Genissieu, 38000 Grenoble|34|7
+7 Rue Genissieu, 38000 Grenoble|35|2
+7 Rue Genissieu, 38000 Grenoble|36|5
+7 Rue Genissieu, 38000 Grenoble|37|8
+7 Rue Genissieu, 38000 Grenoble|38|7
+7 Rue Genissieu, 38000 Grenoble|39|1
+7 Rue Genissieu, 38000 Grenoble|40|8

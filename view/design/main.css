@@ -49,6 +49,11 @@ li a:hover {
   font-weight: bold;
 }
 
+form{
+  display: flex;
+  align-items: center;
+}
+
 input[type="text"]{
   padding:10px 5px;
   height:0;

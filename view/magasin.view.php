@@ -20,4 +20,4 @@
     }
      ?>
    </body>
-   <?php require_once('footer.view.php'); ?>
+   <?php require_once('footer.view.html'); ?>
