@@ -17,22 +17,44 @@ class MangaDAO{
     $res = $this->db->query($sql);
     return $res;
   }
-  
+
   public function getSearch(string $search){
     $tabMangas = $this->getAll();
+
+    $searchMajInter = strtoupper($search);
+    $searchMaj = str_replace(' ', '', $searchMajInter);
+
     foreach ($tabMangas as $key) {
-      $mangaMajInter = strtoupper($key['Titre']);
-      $searchMajInter = strtoupper($search);
-      $mangaMaj = str_replace(' ', '', $mangaMajInter);
-      $searchMaj = str_replace(' ', '', $searchMajInter);
-      if($mangaMaj == $searchMaj){
+      $titreMajInter = strtoupper($key['Titre']);
+      $titreMaj = str_replace(' ', '', $titreMajInter);
+
+      $auteurMajInter = strtoupper($key['Auteur']);
+      $auteurMaj = str_replace(' ', '', $auteurMajInter);
+
+      $genreMajInter = strtoupper($key['Genre']);
+      $genreMaj = str_replace(' ', '', $genreMajInter);
+
+      if($titreMaj == $searchMaj){
         $titre = $key['Titre'];
+        $auteur = $genre = '';
+      }
+      else if($auteurMaj == $searchMaj){
+        $auteur = $key['Auteur'];
+        $titre = $genre = '';
+      }
+      else if($genreMaj == $searchMaj){
+        $genre = $key['Genre'];
+        $titre = $auteur = '';
       }
     }
-    if (!isset($titre)){
-      echo "Le titre n'est pas enregistré dans notre base de données";
+
+    if (!isset($titre) && !isset($auteur) && !isset($genre)){
+      echo "Le titre, auteur ou genre n'est pas enregistré dans notre base de données";
     }
-    $sql = "SELECT * FROM Manga WHERE Titre='$titre'";
+
+    echo '<h1>'.$titre.$auteur.$genre.'</h1>';
+
+    $sql = "SELECT * FROM Manga WHERE Titre='$titre' OR Auteur='$auteur' OR Genre='$genre'";
     $res = $this->db->query($sql);
     return $res;
   }

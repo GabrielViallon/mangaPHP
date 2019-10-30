@@ -1,6 +1,36 @@
 p{
-  display: flex;
   margin: 10px;
+}
+
+h1,h2{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+container{
+  display: flex;
+  justify-content: space-between;
+}
+
+container p{
+  font-size: 85%;
+  font-style: italic;
+}
+
+container+p{
+  margin-top: 3%;
+}
+
+div+ div{
+  background-color: #b4b8ab;
+  color : #292929;
+  margin: 7%;
+}
+
+div li{
+  display: flex;
+  justify-content:space-between;
+  float: none;
 }
 
 div article{
@@ -9,5 +39,6 @@ div article{
 }
 
 header + div{
+  background-color: #003d5b;
   display: flex;
 }

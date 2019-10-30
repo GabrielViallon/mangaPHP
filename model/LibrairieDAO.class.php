@@ -11,8 +11,8 @@ class LibrairieDAO{
     }
     }
 
-  public function get(int $addr){
-    $sql = "SELECT * FROM Librairie WHERE Adresse=$addr";
+  public function get(string $addr){
+    $sql = 'SELECT * FROM Librairie WHERE Adresse = "'.$addr.'"';
     $res = $this->db->query($sql);
     return $res;
   }
