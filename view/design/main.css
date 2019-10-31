@@ -50,6 +50,16 @@ li a:hover {
   font-weight: bold;
 }
 
+.searchZone{
+  display: flex;
+  flex-direction: row;
+  background-color: inherit;
+}
+
+.searchZone:hover{
+  background-color: inherit;
+}
+
 form{
   display: flex;
   align-items: center;

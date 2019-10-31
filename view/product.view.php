@@ -24,9 +24,9 @@
     $stockLib = $stocks->getLibDispo($selectManga['Reference'])->fetchAll();
 
     echo '<img src="../model/data/images_manga/'.$selectManga['Image'].'" alt="">';
-    echo '<article><h1>'.$selectManga['Titre'].'</h1><h2> écrit par : '.$selectManga['Auteur'].'</h2>';
+    echo '<article><h1>'.$selectManga['Titre'].'</h1><h2> écrit par : <a href="mangasTri.view.php?search='.$selectManga['Auteur'].'">'.$selectManga['Auteur'].'</a></h2>';
     echo '<container><p>Reference '.$selectManga['Reference'].'</p>';
-    echo '<p>'.$selectManga['Categorie'].', '.$selectManga['Genre'].'</p></container>';
+    echo '<p><a href="mangasTri.view.php?cat='.$selectManga['Categorie'].'">'.$selectManga['Categorie'].'</a>, <a href="mangasTri.view.php?search='.$selectManga['Genre'].'">'.$selectManga['Genre'].'</a></p></container>';
     echo '<p>'.$selectManga['Resume'].'</p></article></div><div><h3>Disponibilité :</h3><ul>';
 
     foreach ($stockLib as $val){
