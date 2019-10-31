@@ -35,7 +35,7 @@
 
      echo '<div><a href="product.view.php?ref='.$manga['Reference']
      .'"><img src="../model/data/images_manga/'.$manga['Image'].'" alt="'.$manga['Image']
-     .'"><article><p>'.$manga['Titre'].'</p><p>'.$nbMangas['Dispo'].' exemplaires</p></article></a></div>';
+     .'"><article><h2>'.$manga['Titre'].'</h2><p>'.$nbMangas['Dispo'].' exemplaires</p></article></a></div>';
     }
 
     echo '</container></body>';
