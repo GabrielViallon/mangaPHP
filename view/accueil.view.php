@@ -20,6 +20,7 @@ require_once('header.view.html');
   <h3>Tu cherches à découvrir le monde des mangas ou un titre en particulier ?</h3>
   <h3>Tu es au bon endroit, ici nous te mettons au courant des mangas disponibles dans les libraries et magasins du coin !</h3>
   <h3>Vois ce qui pourrait t'interesser en lisant les résumés de chaque produit !</h3>
+  <h3>PS : Les informations sur la disponibilité des mangas ainsi que le numéro et l'adresse donnés en bas de page sont fictifs</h3>
 </article>
 </container>
 </body>
