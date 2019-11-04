@@ -36,25 +36,38 @@ class MangaDAO{
 
       if($titreMaj == $searchMaj){
         $titre = $key['Titre'];
-        $auteur = $genre = '';
+        // $auteur = $genre = '';
       }
       else if($auteurMaj == $searchMaj){
         $auteur = $key['Auteur'];
-        $titre = $genre = '';
+        // $titre = $genre = '';
       }
       else if($genreMaj == $searchMaj){
         $genre = $key['Genre'];
-        $titre = $auteur = '';
+        // $titre = $auteur = '';
       }
     }
 
     if (!isset($titre) && !isset($auteur) && !isset($genre)){
       echo "Le titre, auteur ou genre n'est pas enregistré dans notre base de données";
+      $sql = "SELECT * FROM Manga WHERE 0=1";
     }
 
-    echo '<h1>'.$titre.$auteur.$genre.'</h1>';
+    echo '<h1>';
+    if (isset($titre)){
+      echo $titre;
+      $sql = "SELECT * FROM Manga WHERE Titre='$titre'";
+    }
+    else if(isset($auteur)){
+      echo $auteur;
+      $sql = "SELECT * FROM Manga WHERE Auteur='$auteur'";
+    }
+    else if(isset($genre)){
+      echo $genre;
+      $sql = "SELECT * FROM Manga WHERE Genre='$genre'";
+    }
+    echo '</h1>';
 
-    $sql = "SELECT * FROM Manga WHERE Titre='$titre' OR Auteur='$auteur' OR Genre='$genre'";
     $res = $this->db->query($sql);
     return $res;
   }
