@@ -1,3 +1,23 @@
+<?php
+$libAdr = $_GET['lib'];
+
+require_once('header.view.html');
+
+require_once('../model/LibrairieDAO.class.php');
+$librairies = new LibrairieDAO('../model/data');
+$librairie = $librairies->get($libAdr)->fetchAll()[0];
+
+require_once('../model/StockDAO.class.php');
+$stock = new StockDAO('../model/data');
+$tableauRefs = $stock->getRef($libAdr)->fetchAll();
+
+require_once('../model/MangaDAO.class.php');
+$mangas = new MangaDAO('../model/data');
+
+require_once('../model/StockDAO.class.php');
+$stocks = new StockDAO('../model/data');
+?>
+
 <!DOCTYPE html>
   <html lang="fr" dir="ltr">
   <head>
@@ -6,28 +26,11 @@
   <link rel="stylesheet" href="./design/main.css">
   <title>MangaStarter</title>
   </head>
+
+<body><h1>Les mangas dispos à <?=$librairie['Nom']?> </h1><container>
+
+
 <?php
-    $libAdr = $_GET['lib'];
-
-    require_once('header.view.html');
-
-    require_once('../model/LibrairieDAO.class.php');
-    $librairies = new LibrairieDAO('../model/data');
-    $librairie = $librairies->get($libAdr)->fetchAll()[0];
-
-    echo '<body><h1>Les mangas dispos à '.$librairie['Nom'].'</h1><container>';
-
-    require_once('../model/StockDAO.class.php');
-    $stock = new StockDAO('../model/data');
-    $tableauRefs = $stock->getRef($libAdr)->fetchAll();
-
-    require_once('../model/MangaDAO.class.php');
-    $mangas = new MangaDAO('../model/data');
-
-    require_once('../model/StockDAO.class.php');
-    $stocks = new StockDAO('../model/data');
-
-
     foreach ($tableauRefs as $ref) {
 
       $nbMangas = $stocks->getNb($ref['Ref'], $librairie['Adresse'])->fetchAll()[0];
@@ -38,6 +41,8 @@
      .'"><article><h2>'.$manga['Titre'].'</h2><p>'.$nbMangas['Dispo'].' exemplaires</p></article></a></div>';
     }
 
-    echo '</container></body>';
-    require_once('footer.view.html');
     ?>
+
+</container></body>
+
+    <?php include'footer.view.html'; ?>

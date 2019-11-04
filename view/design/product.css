@@ -41,9 +41,15 @@ div li{
   float: none;
 }
 
+div li:hover{
+  justify-content: flex-start;
+}
+
 div article{
   display: flex;
   flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 header + div{
