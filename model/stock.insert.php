@@ -1,3 +1,4 @@
+<!-- fichier utilisé seulement pour créer un fichier texte qui a été utilisé pour remplir la base de données -->
 <?php
 require_once('LibrairieDAO.class.php');
 $librairies = new LibrairieDAO('data');
