@@ -13,12 +13,13 @@ class MangaDAO{
     }
 
   public function get(int $ref){
+    //on récupère les infos sur un manga selon sa référence (clé primaire)
     $sql = "SELECT * FROM Manga WHERE Reference=$ref";
     $res = $this->db->query($sql);
     return $res;
   }
 
-  public function getSearch(string $search){
+  public function getMatch(string $search){
     //on récupère tous les mangas
     $tabMangas = $this->getAll();
 
@@ -50,26 +51,31 @@ class MangaDAO{
         $match = $key['Genre'];
       }
     }
-
     if (!isset($match)){
+      //on envoie une exception si la recherche n'aboutit pas ($match pas créé)
       throw new Exception("'$search' n'est pas enregistré dans notre base de données");
     }
+    //si la recherche donne quelque chose, on renvoit le résultat bien écrit (comme dans la BD)
+    return $match;
+  }
 
+  public function getSearch(string $match){
+    //on récupère les mangas dont le titre, l'auteur, ou le genre correspond au mot données
+    //on part du principe qu'aucun titre n'est pareil qu'un auteur ou qu'un genre et inversement...
     $sql = "SELECT * FROM Manga WHERE Titre='$match' OR Auteur='$match' OR Genre='$match'";
-    echo '<h1>'.$match.'</h1>';
-
     $res = $this->db->query($sql);
     return $res;
   }
 
   public function getCat(string $categorie){
+    //on récupère les mangas dont la catégorie correspond à celle donnée
     $sql = "SELECT * FROM Manga WHERE Categorie='$categorie'";
-    echo '<h1>'.$categorie.'</h1>';
     $res = $this->db->query($sql);
     return $res;
   }
 
   public function getAll(){
+    //on récupère tous les mangas de la BD
     $sql = "SELECT * FROM Manga";
     $res = $this->db->query($sql);
     return $res;

@@ -7,9 +7,9 @@
   <title>MangaStarter</title>
   </head>
 
-<?php require'../view/header.view.html'; ?>
+<?php require'header.view.html'; ?>
 <body>
-
+  <h1><?= $titre ?></h1>
 <container>
 <?php foreach ($tableauMangas as $val):
   $dispo = $stocks->getDispo($val['Reference'])->fetchAll()[0]; ?>

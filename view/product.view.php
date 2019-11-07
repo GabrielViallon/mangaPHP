@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="../view/design/main.css">
   <title>MangaStarter</title>
   </head>
-  <?php require'../view/header.view.html'; ?>
+  <?php require'header.view.html'; ?>
   <body>
     <div>
     <img src="../model/data/images_manga/<?= $selectManga['Image'] ?>" alt="">

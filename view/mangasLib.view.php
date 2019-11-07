@@ -13,7 +13,7 @@
 
       <?php foreach ($tableauRefs as $ref):
 
-      $nbMangas = $stocks->getNb($ref['Ref'], $librairie['Adresse'])->fetchAll()[0];
+      $nbMangas = $stock->getNb($ref['Ref'], $librairie['Adresse'])->fetchAll()[0];
       $manga = $mangas->get($ref['Ref'])->fetchAll()[0];
       ?>
 

@@ -6,7 +6,11 @@
   <link rel="stylesheet" href="../view/design/main.css">
   <title>MangaStarter</title>
   </head>
-<?php require'header.view.html'; ?>
+<?php
+//Pour éviter la redondance, et le header prenant beaucoup de place,
+//on appelle directement le html dans chaque vue qui va suivre
+require'header.view.html';
+?>
 <body>
   <container>
   <article>

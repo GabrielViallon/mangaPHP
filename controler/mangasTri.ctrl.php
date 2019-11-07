@@ -2,24 +2,30 @@
 require_once('../model/MangaDAO.class.php');
 $mangas = new MangaDAO('../model/data');
 
-if (isset($_GET['cat'])){
-  $categorie = $_GET['cat'];
-$tableauMangas = $mangas->getCat($categorie)->fetchAll();
+//On choisi la première catégorie si quelqu'un ouvre la page sans donner de paramètres
+if (!isset($_GET['search']) && !isset($_GET['cat'])){
+  $titre = "Shonen";
+  $tableauMangas = $mangas->getCat($titre)->fetchAll();
 }
-
+else if (isset($_GET['cat'])){
+  $titre = $_GET['cat'];
+  $tableauMangas = $mangas->getCat($titre)->fetchAll();
+}
 else if (isset($_GET['search'])){
   $search = $_GET['search'];
+  //si la recherche ne donne rien on récupère et affiche l'exception
   try{
-  $tableauMangas = $mangas->getSearch($search)->fetchAll();
-}
-catch (Exception $e){
-  echo $e->getMessage();
-}
+    $titre = $mangas->getMatch($search);
+    $tableauMangas = $mangas->getSearch($titre)->fetchAll();
+  }
+  catch (Exception $e){
+    echo $e->getMessage();
+  }
 }
 
 require_once('../model/StockDAO.class.php');
 $stocks = new StockDAO('../model/data');
 
 require'../view/mangasTri.view.php';
-php require'../view/footer.view.html';
+require'../view/footer.view.html';
  ?>

@@ -1,5 +1,11 @@
 <?php
-    $refManga = $_GET['ref'];
+//Si quelqu'un accède à la page sans donner de référence, la première est donnée
+if(isset($_GET['ref'])){
+  $refManga = $_GET['ref'];
+}
+else{
+  $refManga = "1";
+}
 
     require_once('../model/MangaDAO.class.php');
     $mangas = new MangaDAO('../model/data');
@@ -14,5 +20,5 @@
     $stockLib = $stocks->getLibDispo($selectManga['Reference'])->fetchAll();
 
 require'../view/product.view.php';
-require'footer.view.html';
+require'../view/footer.view.html';
 ?>
