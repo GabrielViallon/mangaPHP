@@ -19,54 +19,44 @@ class MangaDAO{
   }
 
   public function getSearch(string $search){
+    //on récupère tous les mangas
     $tabMangas = $this->getAll();
 
+    //on met la recherche en majusucle sans espaces
     $searchMajInter = strtoupper($search);
     $searchMaj = str_replace(' ', '', $searchMajInter);
 
+    //pour chaque manga,
     foreach ($tabMangas as $key) {
+      //on met en majuscule et sans espace le titre,
       $titreMajInter = strtoupper($key['Titre']);
       $titreMaj = str_replace(' ', '', $titreMajInter);
-
+      //l'auteur,
       $auteurMajInter = strtoupper($key['Auteur']);
       $auteurMaj = str_replace(' ', '', $auteurMajInter);
-
+      //et le genre
       $genreMajInter = strtoupper($key['Genre']);
       $genreMaj = str_replace(' ', '', $genreMajInter);
 
+      //on compare ensuite la recherche avec le titre, l'auteur et le genre
+      //on part du principe que les titres, auteurs et genres sont uniques entre eux
       if($titreMaj == $searchMaj){
-        $titre = $key['Titre'];
-        // $auteur = $genre = '';
+        $match = $key['Titre'];
       }
       else if($auteurMaj == $searchMaj){
-        $auteur = $key['Auteur'];
-        // $titre = $genre = '';
+        $match = $key['Auteur'];
       }
       else if($genreMaj == $searchMaj){
-        $genre = $key['Genre'];
-        // $titre = $auteur = '';
+        $match = $key['Genre'];
       }
     }
 
-    if (!isset($titre) && !isset($auteur) && !isset($genre)){
-      echo "Le titre, auteur ou genre n'est pas enregistré dans notre base de données";
-      $sql = "SELECT * FROM Manga WHERE 0=1";
+    if (!isset($match)){
+      throw new Exception("'$search' n'est pas enregistré dans notre base de données");
     }
 
-    echo '<h1>';
-    if (isset($titre)){
-      echo $titre;
-      $sql = "SELECT * FROM Manga WHERE Titre='$titre'";
-    }
-    else if(isset($auteur)){
-      echo $auteur;
-      $sql = "SELECT * FROM Manga WHERE Auteur='$auteur'";
-    }
-    else if(isset($genre)){
-      echo $genre;
-      $sql = "SELECT * FROM Manga WHERE Genre='$genre'";
-    }
-    echo '</h1>';
+    $sql = "SELECT * FROM Manga WHERE Titre='$match' OR Auteur='$match' OR Genre='$match'";
+    echo '<h1>'.$match.'</h1>';
 
     $res = $this->db->query($sql);
     return $res;
@@ -74,6 +64,7 @@ class MangaDAO{
 
   public function getCat(string $categorie){
     $sql = "SELECT * FROM Manga WHERE Categorie='$categorie'";
+    echo '<h1>'.$categorie.'</h1>';
     $res = $this->db->query($sql);
     return $res;
   }

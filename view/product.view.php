@@ -2,39 +2,37 @@
   <html lang="fr" dir="ltr">
   <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="./design/product.css">
-  <link rel="stylesheet" href="./design/main.css">
+  <link rel="stylesheet" href="../view/design/product.css">
+  <link rel="stylesheet" href="../view/design/main.css">
   <title>MangaStarter</title>
   </head>
-<?php
-    require_once('header.view.html');
-    echo '<body><div>';
-    $refManga = $_GET['ref'];
-
-    require_once('../model/MangaDAO.class.php');
-    $mangas = new MangaDAO('../model/data');
-    $selectManga = $mangas->get($refManga)->fetchAll()[0];
-
-    require_once('../model/StockDAO.class.php');
-    $stocks = new StockDAO('../model/data');
-
-    require_once('../model/LibrairieDAO.class.php');
-    $librairies = new LibrairieDAO('../model/data');
-
-    $stockLib = $stocks->getLibDispo($selectManga['Reference'])->fetchAll();
-
-    echo '<img src="../model/data/images_manga/'.$selectManga['Image'].'" alt="">';
-    echo '<article><h1>'.$selectManga['Titre'].'</h1><h2> écrit par : <a href="mangasTri.view.php?search='.$selectManga['Auteur'].'">'.$selectManga['Auteur'].'</a></h2>';
-    echo '<container><p>Reference '.$selectManga['Reference'].'</p>';
-    echo '<p><a href="mangasTri.view.php?cat='.$selectManga['Categorie'].'">'.$selectManga['Categorie'].'</a>, <a href="mangasTri.view.php?search='.$selectManga['Genre'].'">'.$selectManga['Genre'].'</a></p></container>';
-    echo '<p>'.$selectManga['Resume'].'</p></article></div><div><h3>Disponibilité :</h3><ul>';
-
-    foreach ($stockLib as $val){
+  <?php require'../view/header.view.html'; ?>
+  <body>
+    <div>
+    <img src="../model/data/images_manga/<?= $selectManga['Image'] ?>" alt="">
+    <article>
+      <h1><?= $selectManga['Titre'] ?></h1>
+      <h2> écrit par : <a href="mangasTri.ctrl.php?search=<?= $selectManga['Auteur'] ?>">
+        <?= $selectManga['Auteur'] ?></a></h2>
+    <container>
+      <p>Reference <?= $selectManga['Reference'] ?></p>
+      <p><a href="mangasTri.ctrl.php?cat=<?= $selectManga['Categorie'] ?>">
+        <?= $selectManga['Categorie'] ?></a>
+        , <a href="mangasTri.ctrl.php?search=<?= $selectManga['Genre'] ?>">
+          <?= $selectManga['Genre'] ?></a></p>
+        </container>
+      <p><?= $selectManga['Resume'] ?></p>
+    </article>
+  </div>
+  <div>
+    <h3>Disponibilité :</h3>
+    <ul>
+      <?php foreach ($stockLib as $val):
       $nomLib = $librairies->get($val['LibrairieAddr'])->fetchAll()[0];
-      echo '<li><p>'.$nomLib[0].' ('.$val['LibrairieAddr'].') :</p><p>'.$val['Dispo'].' exemplaires</p></li>';
-    }
-     ?>
+      ?>
+      <li><p><?= $nomLib[0] ?> (<?= $val['LibrairieAddr'] ?>) :</p>
+        <p><?= $val['Dispo'] ?> exemplaires</p>
+      </li>
+    <?php endforeach;?>
    </ul>
  </div>
-  </body>
-  <?php require_once('footer.view.html'); ?>

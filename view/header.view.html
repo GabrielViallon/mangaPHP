@@ -3,33 +3,33 @@
       <ul>
           <li><a href="../controler/accueil.ctrl.php">Accueil</a></li>
           <li><a href="../controler/magasin.ctrl.php">Magasins</a></li>
-          <li><a href="mangasTri.view.php?cat=Shonen">Shonen</a></li>
-          <li><a href="mangasTri.view.php?cat=Seinen">Seinen</a></li>
-          <li><a href="mangasTri.view.php?cat=Light Novel">Light Novel</a></li>
-          <li><a href="mangasTri.view.php?cat=Kodomo">Kodomo</a></li>
+          <li><a href="../controler/mangasTri.ctrl.php?cat=Shonen">Shonen</a></li>
+          <li><a href="../controler/mangasTri.ctrl.php?cat=Seinen">Seinen</a></li>
+          <li><a href="../controler/mangasTri.ctrl.php?cat=Light Novel">Light Novel</a></li>
+          <li><a href="../controler/mangasTri.ctrl.php?cat=Kodomo">Kodomo</a></li>
       </ul>
       <div class="searchZone">
-      <form class="" action="mangasTri.view.php" method="get">
+      <form class="" method="get">
         <select name="genre" onchange="location = this.options[this.selectedIndex].value;">
           <option selected>Genre
-          <option value="mangasTri.view.php?search=Science-fiction">Science-fiction
-          <option value="mangasTri.view.php?search=Surnaturel">Surnaturel
-          <option value="mangasTri.view.php?search=Fantasy">Fantasy
-          <option value="mangasTri.view.php?search=Aventure">Aventure
-          <option value="mangasTri.view.php?search=Dark Fantasy">Dark Fantasy
-          <option value="mangasTri.view.php?search=Ninja">Ninja
-          <option value="mangasTri.view.php?search=Post-apocalypse">Post-apocalypse
-          <option value="mangasTri.view.php?search=Culinaire">Culinaire
-          <option value="mangasTri.view.php?search=Comédie">Comédie
-          <option value="mangasTri.view.php?search=Sport">Sport
-          <option value="mangasTri.view.php?search=Historique">Historique
-          <option value="mangasTri.view.php?search=Isekai">Isekai
-          <option value="mangasTri.view.php?search=Romance">Romance
-          <option value="mangasTri.view.php?search=Pirate">Pirate
-          <option value="mangasTri.view.php?search=Super-héros">Super-héros
+          <option value="../controler/mangasTri.ctrl.php?search=Science-fiction">Science-fiction
+          <option value="../controler/mangasTri.ctrl.php?search=Surnaturel">Surnaturel
+          <option value="../controler/mangasTri.ctrl.php?search=Fantasy">Fantasy
+          <option value="../controler/mangasTri.ctrl.php?search=Aventure">Aventure
+          <option value="../controler/mangasTri.ctrl.php?search=Dark Fantasy">Dark Fantasy
+          <option value="../controler/mangasTri.ctrl.php?search=Ninja">Ninja
+          <option value="../controler/mangasTri.ctrl.php?search=Post-apocalypse">Post-apocalypse
+          <option value="../controler/mangasTri.ctrl.php?search=Culinaire">Culinaire
+          <option value="../controler/mangasTri.ctrl.php?search=Comédie">Comédie
+          <option value="../controler/mangasTri.ctrl.php?search=Sport">Sport
+          <option value="../controler/mangasTri.ctrl.php?search=Historique">Historique
+          <option value="../controler/mangasTri.ctrl.php?search=Isekai">Isekai
+          <option value="../controler/mangasTri.ctrl.php?search=Romance">Romance
+          <option value="../controler/mangasTri.ctrl.php?search=Pirate">Pirate
+          <option value="../controler/mangasTri.ctrl.php?search=Super-héros">Super-héros
         </select>
       </form>
-      <form class="" action="mangasTri.view.php" method="get">
+      <form class="" action="../controler/mangasTri.ctrl.php" method="get">
         <input type="text" name="search" placeholder="titre, auteur, genre...">
       </form>
     </div>

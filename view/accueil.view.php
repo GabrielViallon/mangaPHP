@@ -6,9 +6,7 @@
   <link rel="stylesheet" href="../view/design/main.css">
   <title>MangaStarter</title>
   </head>
-<?php
-include('header.view.html');
-?>
+<?php require'header.view.html'; ?>
 <body>
   <container>
   <article>

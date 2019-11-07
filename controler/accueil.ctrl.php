@@ -1,4 +1,4 @@
 <?php
-include("../view/accueil.view.php");
-include('../view/footer.view.html');
+require'../view/accueil.view.php';
+require'../view/footer.view.html';
  ?>
