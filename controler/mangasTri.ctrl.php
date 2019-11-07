@@ -19,6 +19,8 @@ else if (isset($_GET['search'])){
     $tableauMangas = $mangas->getSearch($titre)->fetchAll();
   }
   catch (Exception $e){
+    $titre = '';
+    $tableauMangas = $mangas->getSearch("")->fetchAll();
     echo $e->getMessage();
   }
 }
